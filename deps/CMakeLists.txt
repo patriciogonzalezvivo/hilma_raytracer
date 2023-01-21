@@ -1,2 +1,1 @@
-add_subdirectory(vera)
-add_subdirectory(libopz)
+add_subdirectory(hilma)
